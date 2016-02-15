@@ -26,6 +26,8 @@ namespace Uniclass2015KeynoteFile
                 string keynoteEntries = classifications
                     // Project the json arrays into tab seperated strings
                     .Select(classificationData => string.Format("{0}\t{1}\t{2}", classificationData[0], classificationData[1], classificationData[2]))
+                    // Only select distinct rows
+                    .Distinct()
                     // Join the strings, seperating them by newlines
                     .Aggregate((s1, s2) => s1 + "\n" + s2)
                     // Remove the 'Uniclass2015' parent as this is not supported by Revit

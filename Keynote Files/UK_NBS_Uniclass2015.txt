@@ -2538,7 +2538,7 @@ Pr_20_85_47_20	Cubicle and partition legs	Pr_20_85_47
 Pr_20_85_47_22	Decking and paving pedestals	Pr_20_85_47
 Pr_20_85_47_47	Leg supports	Pr_20_85_47
 Pr_20_85_47_50	Metal hanging rails	Pr_20_85_47
-Pr_20_85_47_51	Metal suspended ceiling hangersÂ 	Pr_20_85_47
+Pr_20_85_47_51	Metal suspended ceiling hangers	Pr_20_85_47
 Pr_20_85_47_84	Stair stringers	Pr_20_85_47
 Pr_20_85_47_88	Timber dowel hanging rails	Pr_20_85_47
 Pr_20_85_48	Lintels	Pr_20_85
@@ -3826,7 +3826,7 @@ Pr_30_59_36_64	Polyvinylchloride (PVC) strip curtain sets	Pr_30_59_36
 Pr_30_59_36_72	Roller grille sets	Pr_30_59_36
 Pr_30_59_36_73	Roller shutter sets	Pr_30_59_36
 Pr_30_59_36_74	Roof hatches	Pr_30_59_36
-Pr_30_59_36_76	Self-closing safety hatchesÂ 	Pr_30_59_36
+Pr_30_59_36_76	Self-closing safety hatches	Pr_30_59_36
 Pr_30_59_36_78	Self-closing trapdoors	Pr_30_59_36
 Pr_30_59_36_80	Stainless steel access hatches	Pr_30_59_36
 Pr_30_59_36_96	Wall hatches	Pr_30_59_36
@@ -4064,8 +4064,8 @@ Pr_35_31_65_01	Abrasives	Pr_35_31_65
 Pr_35_31_65_02	Abrasive blocks	Pr_35_31_65
 Pr_35_31_65_12	Cement and grout fillers	Pr_35_31_65
 Pr_35_31_65_13	Chemical fillers	Pr_35_31_65
-Pr_35_31_65_20	Decoratorâ€™s caulks	Pr_35_31_65
-Pr_35_31_65_21	Decoratorâ€™s flexible fillers	Pr_35_31_65
+Pr_35_31_65_20	Decorator€™s caulks	Pr_35_31_65
+Pr_35_31_65_21	Decorator€™s flexible fillers	Pr_35_31_65
 Pr_35_31_65_22	Degreaser solutions	Pr_35_31_65
 Pr_35_31_65_23	Detergent solutions	Pr_35_31_65
 Pr_35_31_65_24	Dry air pressured abrasives	Pr_35_31_65
@@ -4705,7 +4705,7 @@ Pr_40_10_57_96	Warning marker tapes	Pr_40_10_57
 Pr_40_10_57_97	Warning marker tiles	Pr_40_10_57
 Pr_40_10_57_98	Water firefighting system identification and labels	Pr_40_10_57
 Pr_40_10_77	Signs and markers	Pr_40_10
-Pr_40_10_77_02	â€˜Aâ€™ boards	Pr_40_10_77
+Pr_40_10_77_02	€˜A€™ boards	Pr_40_10_77
 Pr_40_10_77_04	Alpha numeric characters	Pr_40_10_77
 Pr_40_10_77_05	Applied glazing details	Pr_40_10_77
 Pr_40_10_77_06	Banner signs	Pr_40_10_77
@@ -5007,7 +5007,7 @@ Pr_40_30_55_06	Bell frames	Pr_40_30_55
 Pr_40_30_55_07	Bell headstocks	Pr_40_30_55
 Pr_40_30_55_08	Bell wheels	Pr_40_30_55
 Pr_40_30_55_10	Bracket bells	Pr_40_30_55
-Pr_40_30_55_77	Shipâ€™s bells	Pr_40_30_55
+Pr_40_30_55_77	Ship€™s bells	Pr_40_30_55
 Pr_40_30_55_89	Tower bells	Pr_40_30_55
 Pr_40_30_55_90	Tubular bells	Pr_40_30_55
 Pr_40_30_55_91	Turret bells	Pr_40_30_55
@@ -5015,7 +5015,7 @@ Pr_40_30_61	Play equipment	Pr_40_30
 Pr_40_30_61_15	Climbing frames	Pr_40_30_61
 Pr_40_30_61_18	Combined play structures	Pr_40_30_61
 Pr_40_30_61_40	Imaginative play structures	Pr_40_30_61
-Pr_40_30_61_42	Infantâ€™s swings	Pr_40_30_61
+Pr_40_30_61_42	Infant€™s swings	Pr_40_30_61
 Pr_40_30_61_52	Modular play climbers	Pr_40_30_61
 Pr_40_30_61_61	Play panels	Pr_40_30_61
 Pr_40_30_61_62	Play pools	Pr_40_30_61
@@ -6302,7 +6302,7 @@ Pr_60_70_48_08	Busbar trunking fire barrier units	Pr_60_70_48
 Pr_60_70_48_09	Busbar trunking tap-off units	Pr_60_70_48
 Pr_60_70_48_11	Changeover switches	Pr_60_70_48
 Pr_60_70_48_27	Electrical cut outs	Pr_60_70_48
-Pr_60_70_48_30	Firemanâ€™s emergency switches	Pr_60_70_48
+Pr_60_70_48_30	Fireman€™s emergency switches	Pr_60_70_48
 Pr_60_70_48_44	Low voltage fuse-switch disconnectors	Pr_60_70_48
 Pr_60_70_48_45	Low voltage safety matting	Pr_60_70_48
 Pr_60_70_48_46	Low voltage switch-disconnector fuses	Pr_60_70_48
@@ -6371,7 +6371,7 @@ Pr_60_75_78	Signal transmitters	Pr_60_75
 Pr_60_75_78_90	Telemetry transmitters	Pr_60_75_78
 Pr_60_75_78_91	Television equalizers	Pr_60_75_78
 Pr_60_75_86	Surveillance cameras, monitors and ancillaries	Pr_60_75
-Pr_60_75_86_01	ANPR  camerasÂ 	Pr_60_75_86
+Pr_60_75_86_01	ANPR  cameras	Pr_60_75_86
 Pr_60_75_86_07	Box cameras	Pr_60_75_86
 Pr_60_75_86_09	Bullet cameras	Pr_60_75_86
 Pr_60_75_86_10	Covert cameras	Pr_60_75_86
@@ -7042,7 +7042,7 @@ Pr_65_70_15_96	Work area and patch cord cables	Pr_65_70_15
 Pr_65_70_16	Conductor rail ancillaries	Pr_65_70
 Pr_65_70_16_15	Conductor rail guard boards	Pr_65_70_16
 Pr_65_70_16_17	Conductor rail side ramps	Pr_65_70_16
-Pr_65_70_16_28	Eutectic stripsÂ 	Pr_65_70_16
+Pr_65_70_16_28	Eutectic strips	Pr_65_70_16
 Pr_65_70_36	High voltage cables	Pr_65_70
 Pr_65_70_36_33	High voltage cable glands	Pr_65_70_36
 Pr_65_70_36_34	High voltage cold shrink cable joints	Pr_65_70_36
@@ -7180,13 +7180,13 @@ Pr_65_72_97_63	Plate switches	Pr_65_72_97
 Pr_65_72_97_66	Prefabricated wiring switches	Pr_65_72_97
 Pr_65_72_97_72	Round pin socket outlets	Pr_65_72_97
 Pr_65_72_97_75	Safety pendant lamp holders	Pr_65_72_97
-Pr_65_72_97_76	Safety pendant setsÂ 	Pr_65_72_97
+Pr_65_72_97_76	Safety pendant sets	Pr_65_72_97
 Pr_65_72_97_78	Shaver supply units	Pr_65_72_97
 Pr_65_72_97_79	Single voltage shaver outlets	Pr_65_72_97
 Pr_65_72_97_82	Specialist socket outlets	Pr_65_72_97
 Pr_65_72_97_83	Surface and concealed wiring enclosures	Pr_65_72_97
 Pr_65_72_97_84	Standard socket outlets	Pr_65_72_97
-Pr_65_80	Transport distribution productsÂ 	Pr_65
+Pr_65_80	Transport distribution products	Pr_65
 Pr_65_80_15	Cranes	Pr_65_80
 Pr_65_80_15_59	Overhead travelling cranes	Pr_65_80_15
 Pr_65_80_23	Dock levellers	Pr_65_80
@@ -7214,7 +7214,7 @@ Pr_65_80_47_12	Ceiling track hoists	Pr_65_80_47
 Pr_65_80_47_31	Fixed hoists	Pr_65_80_47
 Pr_65_80_47_47	Moveable hoists	Pr_65_80_47
 Pr_65_80_47_64	Poolside hoists	Pr_65_80_47
-Pr_65_80_47_76	Service hoistsÂ 	Pr_65_80_47
+Pr_65_80_47_76	Service hoists	Pr_65_80_47
 Pr_65_80_47_84	Step lifts	Pr_65_80_47
 Pr_65_80_47_94	Vehicle hoists	Pr_65_80_47
 Pr_65_80_47_95	Vertical lifting platforms	Pr_65_80_47
@@ -7473,7 +7473,7 @@ Pr_70_75_01	Aeronautical lighting products	Pr_70_75
 Pr_70_75_01_01	Aeronautical ground lighting	Pr_70_75_01
 Pr_70_75_01_02	Airfield guidance signs	Pr_70_75_01
 Pr_70_75_01_03	Azimuth guidance for nose-in stand (AGNIS) lights	Pr_70_75_01
-Pr_70_75_01_13	Constant current regulatorsÂ 	Pr_70_75_01
+Pr_70_75_01_13	Constant current regulators	Pr_70_75_01
 Pr_70_75_01_47	Lighting beacon	Pr_70_75_01
 Pr_70_75_01_65	Precision approach path indicators (PAPI)	Pr_70_75_01
 Pr_70_75_01_70	Runway and taxiway elevated lights	Pr_70_75_01
@@ -7503,7 +7503,7 @@ Pr_70_75_36_45	Induction-loop monitor receivers	Pr_70_75_36
 Pr_70_75_36_46	Induction loop reassurance indicators	Pr_70_75_36
 Pr_70_75_36_47	Infrared hearing and assisted listening modulators	Pr_70_75_36
 Pr_70_75_36_48	Infrared hearing and assisted listening radiators	Pr_70_75_36
-Pr_70_75_36_50	LoudspeakersÂ 	Pr_70_75_36
+Pr_70_75_36_50	Loudspeakers	Pr_70_75_36
 Pr_70_75_36_64	Portable communicators	Pr_70_75_36
 Pr_70_75_36_84	Stethosets	Pr_70_75_36
 Pr_70_75_50	Marine signals and indicators	Pr_70_75
@@ -7534,7 +7534,7 @@ Pr_70_75_72_01	Above ground vehicle detection products	Pr_70_75_72
 Pr_70_75_72_07	Belisha beacons	Pr_70_75_72
 Pr_70_75_72_22	Detector loop	Pr_70_75_72
 Pr_70_75_72_30	Fixed vertical road traffic signs	Pr_70_75_72
-Pr_70_75_72_48	Level  crossing signalsÂ 	Pr_70_75_72
+Pr_70_75_72_48	Level  crossing signals	Pr_70_75_72
 Pr_70_75_72_49	Mass detectors	Pr_70_75_72
 Pr_70_75_72_50	Motorway lane signal	Pr_70_75_72
 Pr_70_75_72_51	Motorway signal mark 1	Pr_70_75_72
@@ -7587,18 +7587,18 @@ Pr_75_30	Opening control products	Pr_75
 Pr_75_30_23	Door and gate operating hardware	Pr_75_30
 Pr_75_30_23_00	Articulated arm swing gate operators	Pr_75_30_23
 Pr_75_30_23_01	Automatic door access control mats	Pr_75_30_23
-Pr_75_30_23_02	Automatic door presence safety sensorsÂ 	Pr_75_30_23
+Pr_75_30_23_02	Automatic door presence safety sensors	Pr_75_30_23
 Pr_75_30_23_03	Automatic gate presence safety sensors	Pr_75_30_23
 Pr_75_30_23_04	Automatic sliding door operator control panels	Pr_75_30_23
-Pr_75_30_23_05	Automatic sliding door operatorsÂ 	Pr_75_30_23
+Pr_75_30_23_05	Automatic sliding door operators	Pr_75_30_23
 Pr_75_30_23_06	Automatic sliding gate operator control panels	Pr_75_30_23
 Pr_75_30_23_07	Automatic swing door operator control panels	Pr_75_30_23
 Pr_75_30_23_08	Automatic swing gate operator control panels	Pr_75_30_23
-Pr_75_30_23_09	Automatic swing-door operatorsÂ 	Pr_75_30_23
+Pr_75_30_23_09	Automatic swing-door operators	Pr_75_30_23
 Pr_75_30_23_21	Dock leveller controllers	Pr_75_30_23
 Pr_75_30_23_22	Door access control pushpads	Pr_75_30_23
 Pr_75_30_23_26	Electromagnetic door holders	Pr_75_30_23
-Pr_75_30_23_27	Electromagnetic door hold-open and swing-free devicesÂ 	Pr_75_30_23
+Pr_75_30_23_27	Electromagnetic door hold-open and swing-free devices	Pr_75_30_23
 Pr_75_30_23_31	Folding gate automation mechanisms	Pr_75_30_23
 Pr_75_30_23_33	Garage door operators	Pr_75_30_23
 Pr_75_30_23_36	Handheld door and gate remote controllers	Pr_75_30_23
@@ -7610,7 +7610,7 @@ Pr_75_30_23_76	Sliding gate automation mechanisms	Pr_75_30_23
 Pr_75_30_23_92	Underground swing gate operators	Pr_75_30_23
 Pr_75_30_23_94	Vehicle induction loop detector	Pr_75_30_23
 Pr_75_30_23_96	Worm drive swing gate operators	Pr_75_30_23
-Pr_75_30_27	Electric door locking hardwareÂ 	Pr_75_30
+Pr_75_30_27	Electric door locking hardware	Pr_75_30
 Pr_75_30_27_26	Electric strikes and faceplates	Pr_75_30_27
 Pr_75_30_27_27	Electromechanical door locks	Pr_75_30_27
 Pr_75_30_27_50	Magnetic locks	Pr_75_30_27
@@ -7628,23 +7628,23 @@ Pr_75_50_18_46	Linear actuators	Pr_75_50_18
 Pr_75_50_18_47	Liquid leak detection control panels	Pr_75_50_18
 Pr_75_50_18_51	Mechanical services control panels	Pr_75_50_18
 Pr_75_50_18_65	Pneumatic  document conveyor control panels	Pr_75_50_18
-Pr_75_50_18_94	Valve actuatorsÂ 	Pr_75_50_18
+Pr_75_50_18_94	Valve actuators	Pr_75_50_18
 Pr_75_50_18_96	Water display controls	Pr_75_50_18
 Pr_75_50_33	Gas fire extinguishing controls	Pr_75_50
 Pr_75_50_33_25	Electrical actuation	Pr_75_50_33
-Pr_75_50_33_26	Emergency abort devices Â 	Pr_75_50_33
-Pr_75_50_33_27	Emergency hold devicesÂ 	Pr_75_50_33
+Pr_75_50_33_26	Emergency abort devices 	Pr_75_50_33
+Pr_75_50_33_27	Emergency hold devices	Pr_75_50_33
 Pr_75_50_33_28	Extinguishing control panels	Pr_75_50_33
-Pr_75_50_33_50	Manual triggering devicesÂ 	Pr_75_50_33
+Pr_75_50_33_50	Manual triggering devices	Pr_75_50_33
 Pr_75_50_33_56	Non-electrical gas fire extinguishing disable devices	Pr_75_50_33
-Pr_75_50_33_64	Pneumatic heat actuatorsÂ 	Pr_75_50_33
+Pr_75_50_33_64	Pneumatic heat actuators	Pr_75_50_33
 Pr_75_50_33_88	Thermal links	Pr_75_50_33
 Pr_75_50_46	Liquid level controllers and switches	Pr_75_50
 Pr_75_50_46_27	Electronic liquid level controllers	Pr_75_50_46
 Pr_75_50_46_29	Float liquid level controllers	Pr_75_50_46
 Pr_75_50_46_30	Float switches	Pr_75_50_46
 Pr_75_50_46_31	Flush control devices	Pr_75_50_46
-Pr_75_50_46_42	Infrared flush controllerÂ Â 	Pr_75_50_46
+Pr_75_50_46_42	Infrared flush controller	Pr_75_50_46
 Pr_75_50_46_46	Level controls and alarms	Pr_75_50_46
 Pr_75_50_46_68	Push button flush controllers	Pr_75_50_46
 Pr_75_50_47	Liquid level sensors	Pr_75_50
@@ -7661,7 +7661,7 @@ Pr_75_50_47_88	Thermal dispersion level switches	Pr_75_50_47
 Pr_75_50_47_92	Ultrasonic sensor	Pr_75_50_47
 Pr_75_50_47_94	Vibrating sensor	Pr_75_50_47
 Pr_75_50_48	Liquid sensing devices	Pr_75_50
-Pr_75_50_48_15	Chemical sensing cablesÂ 	Pr_75_50_48
+Pr_75_50_48_15	Chemical sensing cables	Pr_75_50_48
 Pr_75_50_48_31	Fuel sensing cables	Pr_75_50_48
 Pr_75_50_48_34	Ground water monitors	Pr_75_50_48
 Pr_75_50_48_47	Leak sensing tape	Pr_75_50_48
@@ -7688,16 +7688,16 @@ Pr_75_50_76	Sensors and detectors	Pr_75_50
 Pr_75_50_76_02	Air quality sensors	Pr_75_50_76
 Pr_75_50_76_03	Air temperature sensors	Pr_75_50_76
 Pr_75_50_76_04	Ambient noise level sensors	Pr_75_50_76
-Pr_75_50_76_12	Carbon monoxide detectorsÂ 	Pr_75_50_76
+Pr_75_50_76_12	Carbon monoxide detectors	Pr_75_50_76
 Pr_75_50_76_16	Combined electronic current and voltage transducers	Pr_75_50_76
 Pr_75_50_76_17	Combustion gas detectors	Pr_75_50_76
 Pr_75_50_76_18	Current sensors	Pr_75_50_76
 Pr_75_50_76_23	Disinfectant sensors	Pr_75_50_76
 Pr_75_50_76_24	Dissolved oxygen sensors	Pr_75_50_76
-Pr_75_50_76_25	Dry rot sensor sticksÂ 	Pr_75_50_76
+Pr_75_50_76_25	Dry rot sensor sticks	Pr_75_50_76
 Pr_75_50_76_30	Flow in duct sensors	Pr_75_50_76
 Pr_75_50_76_31	Flow in pipe sensors	Pr_75_50_76
-Pr_75_50_76_33	Gas detectorsÂ 	Pr_75_50_76
+Pr_75_50_76_33	Gas detectors	Pr_75_50_76
 Pr_75_50_76_47	Liquid temperature sensors	Pr_75_50_76
 Pr_75_50_76_58	Occupancy sensors	Pr_75_50_76
 Pr_75_50_76_60	pH value sensors	Pr_75_50_76
@@ -7708,7 +7708,7 @@ Pr_75_50_76_69	Proximity sensors and control units	Pr_75_50_76
 Pr_75_50_76_71	Relative humidity sensors	Pr_75_50_76
 Pr_75_50_76_73	Room temperature sensors	Pr_75_50_76
 Pr_75_50_76_80	Sludge density sensors	Pr_75_50_76
-Pr_75_50_76_83	Steam and condensate sensor chambersÂ 	Pr_75_50_76
+Pr_75_50_76_83	Steam and condensate sensor chambers	Pr_75_50_76
 Pr_75_50_76_84	Steam and condensate sensors	Pr_75_50_76
 Pr_75_50_76_86	Suspended solids sensors	Pr_75_50_76
 Pr_75_50_76_90	Turbidity sensors	Pr_75_50_76
@@ -7808,12 +7808,12 @@ Pr_75_75_32_27	Electro-optical FOD detection equipment	Pr_75_75_32
 Pr_75_75_32_39	Hybrid FOD detection equipment	Pr_75_75_32
 Pr_75_75_32_70	Radar FOD detection equipment	Pr_75_75_32
 Pr_75_75_42	Intruder detection and alarm devices and control equipment	Pr_75_75
-Pr_75_75_42_02	Acoustic detectors(i.e. glass break or seismic detectors)Â 	Pr_75_75_42
+Pr_75_75_42_02	Acoustic detectors(i.e. glass break or seismic detectors)	Pr_75_75_42
 Pr_75_75_42_08	Beam interruption detectors	Pr_75_75_42
 Pr_75_75_42_11	Capacitive proximity detectors	Pr_75_75_42
 Pr_75_75_42_16	Combined passive infrared and microwave detectors	Pr_75_75_42
 Pr_75_75_42_17	Combined passive infrared and ultrasonic detectors	Pr_75_75_42
-Pr_75_75_42_22	Deliberately operated intruder alarm devicesÂ 	Pr_75_75_42
+Pr_75_75_42_22	Deliberately operated intruder alarm devices	Pr_75_75_42
 Pr_75_75_42_28	External intruder alarm sounders	Pr_75_75_42
 Pr_75_75_42_40	Internal electronic intruder alarm sounders	Pr_75_75_42
 Pr_75_75_42_41	Intruder alarm panels	Pr_75_75_42
@@ -7873,7 +7873,7 @@ Pr_80_51_46_85	Swirl flowmeters	Pr_80_51_46
 Pr_80_51_46_88	Thermal mass flowmeters	Pr_80_51_46
 Pr_80_51_46_92	Ultrasonic flowmeters	Pr_80_51_46
 Pr_80_51_46_94	Variable area flow meters	Pr_80_51_46
-Pr_80_51_46_95	Vortex flow metersÂ 	Pr_80_51_46
+Pr_80_51_46_95	Vortex flow meters	Pr_80_51_46
 Pr_80_51_51	Metering and test products	Pr_80_51
 Pr_80_51_51_04	Analogue metering equipment	Pr_80_51_51
 Pr_80_51_51_05	Anemometers	Pr_80_51_51
@@ -7883,7 +7883,7 @@ Pr_80_51_51_19	Current transformers	Pr_80_51_51
 Pr_80_51_51_21	Differential pressure flow meters	Pr_80_51_51
 Pr_80_51_51_22	Digital metering equipment	Pr_80_51_51
 Pr_80_51_51_23	Digital multifunction metering equipment	Pr_80_51_51
-Pr_80_51_51_26	Electromagnetic flow metersÂ 	Pr_80_51_51
+Pr_80_51_51_26	Electromagnetic flow meters	Pr_80_51_51
 Pr_80_51_51_28	Energy meters	Pr_80_51_51
 Pr_80_51_51_32	Fuel meters	Pr_80_51_51
 Pr_80_51_51_33	Gas meters	Pr_80_51_51
@@ -7898,7 +7898,7 @@ Pr_80_51_51_92	Ultrasonic flow meters	Pr_80_51_51
 Pr_80_51_51_93	Vapour meter	Pr_80_51_51
 Pr_80_51_51_94	Variable area flow meters	Pr_80_51_51
 Pr_80_51_51_95	Voltage transformers	Pr_80_51_51
-Pr_80_51_51_96	Vortex flow metersÂ 	Pr_80_51_51
+Pr_80_51_51_96	Vortex flow meters	Pr_80_51_51
 Pr_80_51_51_97	Water meters	Pr_80_51_51
 Pr_80_51_85	Structural instrumentation and monitoring products	Pr_80_51
 Pr_80_51_85_18	Crack gauge	Pr_80_51_85
@@ -7974,10 +7974,8 @@ Pr_80_77_46_32	Free standing self-supporting lift shafts	Pr_80_77_46
 Pr_80_77_46_46	Lift cars	Pr_80_77_46
 Pr_80_77_48	Lighting columns, brackets and bollards	Pr_80_77
 Pr_80_77_48_01	Aluminium column luminaire brackets	Pr_80_77_48
-Pr_80_77_48_01	Aluminium column luminaire brackets	Pr_80_77_48
 Pr_80_77_48_02	Aluminium lighting bollards	Pr_80_77_48
 Pr_80_77_48_03	Aluminium lighting columns	Pr_80_77_48
-Pr_80_77_48_04	Aluminium luminaire brackets	Pr_80_77_48
 Pr_80_77_48_04	Aluminium luminaire brackets	Pr_80_77_48
 Pr_80_77_48_15	Concrete lighting bollards	Pr_80_77_48
 Pr_80_77_48_16	Concrete lighting columns	Pr_80_77_48
@@ -7986,10 +7984,8 @@ Pr_80_77_48_55	Multiple light columns	Pr_80_77_48
 Pr_80_77_48_63	Plastics lighting bollards	Pr_80_77_48
 Pr_80_77_48_64	Plastics lighting columns	Pr_80_77_48
 Pr_80_77_48_78	Steel column luminaire brackets	Pr_80_77_48
-Pr_80_77_48_78	Steel column luminaire brackets	Pr_80_77_48
 Pr_80_77_48_79	Steel lighting bollards	Pr_80_77_48
 Pr_80_77_48_80	Steel lighting columns	Pr_80_77_48
-Pr_80_77_48_81	Steel luminaire brackets	Pr_80_77_48
 Pr_80_77_48_81	Steel luminaire brackets	Pr_80_77_48
 Pr_80_77_76	Services insulation and protection products	Pr_80_77
 Pr_80_77_76_03	Aluminium sheet insulation casing	Pr_80_77_76
@@ -9019,7 +9015,7 @@ Ss_25_11_70_85	Stabilized rammed earth wall systems	Ss_25_11_70
 Ss_25_12	Panel wall structure systems	Ss_25
 Ss_25_12_10	Brick panel wall systems	Ss_25_12
 Ss_25_12_15	Concrete panel wall systems	Ss_25_12
-Ss_25_12_60	Panel cubicle systemsÂ 	Ss_25_12
+Ss_25_12_60	Panel cubicle systems	Ss_25_12
 Ss_25_12_60_30	Fully-framed panel cubicle systems	Ss_25_12_60
 Ss_25_12_60_60	Panel cubicle systems	Ss_25_12_60
 Ss_25_12_60_65	Privacy screen systems	Ss_25_12_60
@@ -9214,7 +9210,7 @@ Ss_25_25_95_28	External wall sheathing systems	Ss_25_25_95
 Ss_25_30	Door and window systems	Ss_25
 Ss_25_30_15	Concrete wall glazing systems	Ss_25_30
 Ss_25_30_15_66	Precast concrete security window systems	Ss_25_30_15
-Ss_25_30_20	Door, shutter and hatch systemsÂ 	Ss_25_30
+Ss_25_30_20	Door, shutter and hatch systems	Ss_25_30
 Ss_25_30_20_16	Collapsible gate and grille doorset systems	Ss_25_30_20
 Ss_25_30_20_25	Doorset systems	Ss_25_30_20
 Ss_25_30_20_30	Frame and door leaf systems	Ss_25_30_20
@@ -9233,7 +9229,7 @@ Ss_25_30_20_74	Roller shutter doorset systems	Ss_25_30_20
 Ss_25_30_20_76	Sectional overhead doorset systems	Ss_25_30_20
 Ss_25_30_20_77	Sliding doorset systems	Ss_25_30_20
 Ss_25_30_20_78	Sliding folding doorset systems	Ss_25_30_20
-Ss_25_30_20_80	Sliding stacking panel partition systemsÂ 	Ss_25_30_20
+Ss_25_30_20_80	Sliding stacking panel partition systems	Ss_25_30_20
 Ss_25_30_20_84	Strip curtain doorset systems	Ss_25_30_20
 Ss_25_30_20_93	Up over doorset systems	Ss_25_30_20
 Ss_25_30_29	Fire and smoke curtain systems	Ss_25_30
