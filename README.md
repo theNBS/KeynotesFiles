@@ -27,14 +27,14 @@ Classification codes in this file go five levels deep.
 ### UK\_NBS\_Uniclass2_2012.txt (270 KB) [(Download)](https://raw.githubusercontent.com/theNBS/KeynotesFiles/master/Keynote%20Files/UK_NBS_Uniclass2_2012.txt)
 This file has all Uniclass 2 Work Result listings and clause numbers. A screen shot is shown below:
 
-![Using Uniclass 2 Work Results table for keynoting](http://2.bp.blogspot.com/-JWo5l2MIR60/UKJrMK4BRKI/AAAAAAAACk4/hI_sVhZZO_g/s640/Keynotes02.gif)
+![Using Uniclass 2 Work Results table for keynoting](https://raw.githubusercontent.com/theNBS/KeynotesFiles/master/Resources/KeynotesUniclass2.gif)
 
 Classification codes in this file go three levels deep. In addition, the file only includes system outline clause titles and manufacturer product clause titles, making it more concise as workmanship clause titles are excluded.
 
 ### NBS\_UK\_CAWs_2012.txt (462 KB) [(Download)](https://raw.githubusercontent.com/theNBS/KeynotesFiles/master/Keynote%20Files/UK_NBS_CAWs_2012.txt)
 This file has all Common Arrangement of Work Sections (CAWS) listings and clause numbers. A screen shot is shown below:
 
-![Using CAWs for keynoting](http://1.bp.blogspot.com/-bIhMnva1VNU/UKJrA4UCKzI/AAAAAAAACkw/NAoH78F4Va8/s1600/Keynotes01.gif)
+![Using CAWs for keynoting](https://raw.githubusercontent.com/theNBS/KeynotesFiles/master/Resources/KeynotesCAWS.gif)
 
 Classification codes in this file go two levels deep, for example L and then L10. Note that the intermediate level of L1 is NOT included.
 
